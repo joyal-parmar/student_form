@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  
+  background-position: center;
+  background-size: cover;
+  font-family: sans-serif;
+  margin-top: 40px;
+  background-color: rgb(115, 113, 238);
+}
+.main{
+  border: 2px solid blue;
+  width: 300px;
+  padding: 10px,0px,10px,0px;
+  margin: auto;
+  border-radius: 10px;
+}
+.std_info{
+  background-color: blue;
+  width:250px; 
+  padding: 25px;
+}
+label{
+  color: beige;
+}
+input{
+  width: 250px;
+}
+h1{
+  text-align: center;
+  color: beige;
+  background-color:blue;
+}
+h2{
+  color: beige;
+  text-align: center;
+  background-color:blue;
+}
+.result{
+
+  border: 2px solid blue;
+  width: 500px;
+  padding: 10px,0px,10px,0px;
+  margin: auto;
+  border-radius: 10px;
+  display: flex;
+  background-color: aqua;
+}
+p{
+  margin: auto;
+}
+ button{
+  width: 35%;
+  border-radius: 10px;
+ }
